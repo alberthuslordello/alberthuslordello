@@ -12,6 +12,7 @@
 
 [comment]: <> (link do tutorial de como montar esse perfil do github https://www.youtube.com/watch?v=TsaLQAetPLU)
 
+[comment]: <> (perfil do github dela https://github.com/rafaballerini/rafaballerini/blob/main/README.md)
 
 <div align="center">
   <a href="https://github.com/alberthuslordello">
